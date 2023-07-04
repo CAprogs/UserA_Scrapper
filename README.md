@@ -1,4 +1,4 @@
-# UserA_Scrapper
+# UA_Scrapper v1.0.0
 Script qui retourne les User_Agents d'un navigateur de votre choix sous format 'yml' à partir du site "useragentstring.com".
 
 Trouvez votre profil Chrome : *chrome://version* dans la barre de recherche chrome
